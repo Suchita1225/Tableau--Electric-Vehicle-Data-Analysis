@@ -1,5 +1,6 @@
 Requirements
 KPI’S Requirement- Total Vehicles,Average Electric Range, Total BEV Vehicles and % of Total BEV Vehicles,Total PHEV Vehicles and % of Total PHEV Vehicles
+Tableau Dasboard Link - https://public.tableau.com/app/profile/suchita.patole/viz/EvvehicleDataanalysis/Dashboard1?publish=yes
 
 Charts Requirement
 Total Vehicles by Model Year (From 2010 Onwards)
